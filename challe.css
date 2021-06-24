@@ -17,6 +17,7 @@ body{
     grid-template-rows: auto;
     background-attachment: fixed;
     margin-top: 130px;
+    border-radius: 5px;
      
 }
 .section-1{
@@ -37,6 +38,7 @@ body{
     padding-right: 27rem;
     margin-bottom: 0;
     position: relative;
+    border-radius: 5px;
 }    
 .overlay{
     background: purple;
